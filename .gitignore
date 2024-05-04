@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Build and output folders
+build/
+dist/
+out/
+.cache/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Dependency lock files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Operating system files
+.DS_Store
+Thumbs.db
